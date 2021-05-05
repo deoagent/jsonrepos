@@ -1,9 +1,35 @@
-{
-    "posts": [
-        { "id": 1, "title": "json-server", "author": "typicode" }
-    ],
-    "comments": [
-        { "id": 1, "body": "some comment", "postId": 1 }
-    ],
-    "profile": { "name": "typicode" }
-}
+[{
+        "posts": [
+            { "id": 1, "title": "json-server", "author": "typicode" }
+        ],
+        "comments": [
+            { "id": 1, "body": "some comment", "postId": 1 }
+        ],
+        "profile": { "name": "typicode" }
+
+
+    },
+
+    {
+        "Address_id": "725",
+        "Subtotal": "115.00",
+        "items": "{\"items\": [{\"name\":\"Burger King Whooper\",\"image\":\"https://beta.foodappeti.com/uploads/menu/78f5f962215c166086444acd0ffdf557.jpeg\",\"menu_id\":\"292\",\"quantity\":1,\"price\":\"100.00\",\"is_veg\":\"0\",\"addons\":[{\"title\":\"With Cheese\",\"data\":[{\"item\":\"Cheddar Cheese\",\"rate\":\"15\"},{\"item\":\"Mozarella Cheese\",\"rate\":\"15\"},{\"item\":\"White Cheese\",\"rate\":\"20\"}]}],\"selectedAddons\":{\"menu_id\":\"292\",\"items\":[{\"title\":\"With Cheese\",\"data\":{\"item\":\"Cheddar Cheese\",\"rate\":\"15\"}}]}}]}",
+        "Coupon_id": "",
+        "Coupon_type": "",
+        "Coupon_amount": "",
+        "Coupon_type_for": "",
+        "Coupon_name": "",
+        "Coupon_discount": "",
+        "Code": "",
+        "User_id": "1023",
+        "Token": "9984416556",
+        "Restaurant_id": "122",
+        "Total": "175.00",
+        "Latitude": "14.678241",
+        "Longitude": "120.942678",
+        "order_delivery": "Delivery",
+        "noteToDriver": "",
+        "changeForHowMuch": "",
+        "order_date": "02-02-2021 09:22 PM"
+    }
+]
